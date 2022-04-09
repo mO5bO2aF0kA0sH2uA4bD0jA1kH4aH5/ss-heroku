@@ -10,5 +10,10 @@
       "description": "app-password",
       "value": ""
     }
-  }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
 }
